@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+venv/
+*.log
+*.zip
+pakmart_data/
+git.bat
+run_git.bat

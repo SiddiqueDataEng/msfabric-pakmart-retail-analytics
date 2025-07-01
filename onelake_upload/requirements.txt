@@ -1,0 +1,11 @@
+# PakMart OneLake Upload Pipeline – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# Azure SDK – OneLake / ADLS Gen2 access
+azure-storage-file-datalake==12.17.0
+
+# Azure identity – service principal, device code, CLI auth
+azure-identity==1.17.1
+
+# Load .env files automatically (optional but recommended)
+python-dotenv==1.0.1
